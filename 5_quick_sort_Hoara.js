@@ -1,4 +1,4 @@
-// O(n log n)
+// O(n log2 n)
 
 const arr = [3, 5, 7, 10, -3, 4, 7, 13, 30, 21, 0];
 let count = 0;
